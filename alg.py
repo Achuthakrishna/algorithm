@@ -17,7 +17,7 @@ locations = {
     'sholinganallur':(12.9010, 80.2279),
     'pallikarani':(	12.941656,80.2063269),
     'Nanganallur':(12.9807,80.1882),
-    'Poonamallee':(13.0473,80.0945)
+    'Crescent':(13.0473,80.0945)
 }
 
 # Define a function to calculate the distance between two locations
